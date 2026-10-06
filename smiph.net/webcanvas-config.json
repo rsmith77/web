@@ -1,0 +1,46 @@
+{
+  "sites": [
+    {
+      "id": "2",
+      "label": "example.com",
+      "url": "https://example.com"
+    },
+    {
+      "id": "1",
+      "label": "github.com",
+      "url": "https://github.com"
+    }
+  ],
+  "minimizedSites": [],
+  "filters": {
+    "blockAds": true,
+    "stripTrackers": true,
+    "focusMode": true,
+    "hideComments": false,
+    "showAds": true,
+    "allowTrackers": true,
+    "showAutoplay": true,
+    "showCookieBanners": true,
+    "showSocialWidgets": true
+  },
+  "moduleStates": {
+    "1": {
+      "x": 371,
+      "y": 145,
+      "width": 872,
+      "height": 929,
+      "maximized": false,
+      "prevState": null
+    },
+    "2": {
+      "x": 49,
+      "y": 68,
+      "width": 702,
+      "height": 626,
+      "maximized": false,
+      "prevState": null
+    }
+  },
+  "activeSite": "2",
+  "savedAt": "2026-10-06T05:17:41.253Z"
+}

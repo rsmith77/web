@@ -9,6 +9,12 @@
       "id": "1",
       "label": "github.com",
       "url": "https://github.com"
+    },
+    {
+      "id": "1792793831566",
+      "label": "test",
+      "type": "note",
+      "url": null
     }
   ],
   "minimizedSites": [],
@@ -39,8 +45,16 @@
       "height": 626,
       "maximized": false,
       "prevState": null
+    },
+    "1792793831566": {
+      "x": 509,
+      "y": 59,
+      "width": 480,
+      "height": 320,
+      "maximized": false,
+      "prevState": null
     }
   },
-  "activeSite": "2",
-  "savedAt": "2026-10-23T22:17:08.146Z"
+  "activeSite": "1792793831566",
+  "savedAt": "2026-10-23T22:17:15.742Z"
 }

@@ -15,6 +15,12 @@
       "label": "test",
       "type": "note",
       "url": null
+    },
+    {
+      "id": "1792793867962",
+      "label": "another",
+      "type": "note",
+      "url": null
     }
   ],
   "minimizedSites": [],
@@ -53,8 +59,16 @@
       "height": 320,
       "maximized": false,
       "prevState": null
+    },
+    "1792793867962": {
+      "x": 112,
+      "y": 409,
+      "width": 480,
+      "height": 320,
+      "maximized": false,
+      "prevState": null
     }
   },
-  "activeSite": "1792793831566",
-  "savedAt": "2026-10-23T22:17:19.804Z"
+  "activeSite": "1792793867962",
+  "savedAt": "2026-10-23T22:17:52.118Z"
 }

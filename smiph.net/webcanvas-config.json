@@ -1,11 +1,6 @@
 {
   "sites": [
     {
-      "id": "2",
-      "label": "example.com",
-      "url": "https://example.com"
-    },
-    {
       "id": "1",
       "label": "github.com",
       "url": "https://github.com"
@@ -44,14 +39,6 @@
       "maximized": false,
       "prevState": null
     },
-    "2": {
-      "x": 75,
-      "y": 78,
-      "width": 702,
-      "height": 626,
-      "maximized": false,
-      "prevState": null
-    },
     "1792793831566": {
       "x": 708,
       "y": 36,
@@ -70,5 +57,5 @@
     }
   },
   "activeSite": "1794442468089",
-  "savedAt": "2026-11-12T02:46:58.093Z"
+  "savedAt": "2026-11-12T02:51:55.670Z"
 }

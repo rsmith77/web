@@ -58,8 +58,8 @@
       "prevState": null
     },
     "1794442468089": {
-      "x": 54,
-      "y": 303,
+      "x": 53,
+      "y": 475,
       "width": 614,
       "height": 518,
       "maximized": false,
@@ -74,6 +74,6 @@
       "prevState": null
     }
   },
-  "activeSite": "1794453331139",
-  "savedAt": "2026-11-12T05:53:05.886Z"
+  "activeSite": "1794442468089",
+  "savedAt": "2026-11-12T05:53:08.927Z"
 }

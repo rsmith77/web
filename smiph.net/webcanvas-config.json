@@ -15,6 +15,12 @@
       "label": "test",
       "type": "note",
       "url": null
+    },
+    {
+      "id": "1794442468089",
+      "label": "Terminal",
+      "type": "terminal",
+      "url": null
     }
   ],
   "minimizedSites": [],
@@ -53,8 +59,16 @@
       "height": 320,
       "maximized": false,
       "prevState": null
+    },
+    "1794442468089": {
+      "x": 60,
+      "y": 38,
+      "width": 614,
+      "height": 518,
+      "maximized": false,
+      "prevState": null
     }
   },
-  "activeSite": "1792793831566",
-  "savedAt": "2026-11-12T00:14:24.046Z"
+  "activeSite": "1794442468089",
+  "savedAt": "2026-11-12T00:14:37.017Z"
 }

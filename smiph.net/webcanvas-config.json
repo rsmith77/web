@@ -21,6 +21,11 @@
       "id": "1794452728054",
       "label": "google.com",
       "url": "https://google.com"
+    },
+    {
+      "id": "1794453319290",
+      "label": "youtube.com",
+      "url": "https://youtube.com"
     }
   ],
   "minimizedSites": [],
@@ -69,6 +74,6 @@
       "prevState": null
     }
   },
-  "activeSite": "1794452728054",
-  "savedAt": "2026-11-12T03:14:37.460Z"
+  "activeSite": "1794453319290",
+  "savedAt": "2026-11-12T03:15:21.294Z"
 }

@@ -21,11 +21,6 @@
       "id": "1794452728054",
       "label": "google.com",
       "url": "https://google.com"
-    },
-    {
-      "id": "1794462934659",
-      "label": "youtube.com",
-      "url": "https://youtube.com"
     }
   ],
   "minimizedSites": [],
@@ -66,22 +61,14 @@
       "prevState": null
     },
     "1794452728054": {
-      "x": 81,
-      "y": 65,
+      "x": 24,
+      "y": 30,
       "width": 706,
       "height": 693,
       "maximized": false,
       "prevState": null
-    },
-    "1794462934659": {
-      "x": 336,
-      "y": 288,
-      "width": 825,
-      "height": 853,
-      "maximized": false,
-      "prevState": null
     }
   },
-  "activeSite": "1794462934659",
-  "savedAt": "2026-11-12T05:56:19.922Z"
+  "activeSite": "1794452728054",
+  "savedAt": "2026-11-12T05:58:32.776Z"
 }

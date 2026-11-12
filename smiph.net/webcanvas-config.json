@@ -16,6 +16,11 @@
       "label": "Terminal",
       "type": "terminal",
       "url": null
+    },
+    {
+      "id": "1794451991613",
+      "label": "www.youtube.com",
+      "url": "https://www.youtube.com/"
     }
   ],
   "minimizedSites": [],
@@ -56,6 +61,6 @@
       "prevState": null
     }
   },
-  "activeSite": "1794442468089",
-  "savedAt": "2026-11-12T02:53:06.636Z"
+  "activeSite": "1794451991613",
+  "savedAt": "2026-11-12T02:53:13.623Z"
 }

@@ -6,26 +6,15 @@
       "url": "https://github.com"
     },
     {
-      "id": "1792793831566",
-      "label": "test",
-      "type": "note",
-      "url": null
+      "id": "2",
+      "label": "example.com",
+      "url": "https://example.com"
     },
     {
-      "id": "1794442468089",
+      "id": "1794936724159",
       "label": "Terminal",
       "type": "terminal",
       "url": null
-    },
-    {
-      "id": "1794452728054",
-      "label": "google.com",
-      "url": "https://google.com"
-    },
-    {
-      "id": "1794464082342",
-      "label": "youtube.com",
-      "url": "https://youtube.com"
     }
   ],
   "minimizedSites": [],
@@ -38,50 +27,26 @@
     "allowTrackers": true,
     "showAutoplay": true,
     "showCookieBanners": true,
-    "showSocialWidgets": true
+    "useNewEngine": false
   },
   "moduleStates": {
     "1": {
-      "x": 371,
-      "y": 145,
-      "width": 872,
-      "height": 929,
+      "x": 539,
+      "y": 45,
+      "width": 875,
+      "height": 853,
       "maximized": false,
       "prevState": null
     },
-    "1792793831566": {
-      "x": 732,
-      "y": 35,
+    "2": {
+      "x": 49,
+      "y": 192,
       "width": 480,
       "height": 320,
       "maximized": false,
       "prevState": null
-    },
-    "1794442468089": {
-      "x": 53,
-      "y": 475,
-      "width": 614,
-      "height": 518,
-      "maximized": false,
-      "prevState": null
-    },
-    "1794452728054": {
-      "x": 24,
-      "y": 30,
-      "width": 706,
-      "height": 693,
-      "maximized": false,
-      "prevState": null
-    },
-    "1794464082342": {
-      "x": 180,
-      "y": 140,
-      "width": 1068,
-      "height": 805,
-      "maximized": false,
-      "prevState": null
     }
   },
-  "activeSite": "1794464082342",
-  "savedAt": "2026-11-12T06:14:48.324Z"
+  "activeSite": "1794936724159",
+  "savedAt": "2026-11-17T17:32:06.168Z"
 }
